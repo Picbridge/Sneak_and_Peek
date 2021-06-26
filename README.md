@@ -63,3 +63,15 @@ If the player is crouching, agent no more needs to detect higher position, vice 
 
 ![DetectExample](/IMAGE/Ducking.gif)
         
+## Download link
+
+To play the game, visit [download page](https://github.com/Picbridge/Sneak_and_Peak/raw/main/SneakAndPeek_Setup.exe) and download the installer.
+
+## Assets
+
+Subway station scene - Bench: https://assetstore.unity.com/packages/3d/props/exterior/street-bench-656
+Subway station scene - Train: https://assetstore.unity.com/packages/3d/vehicles/land/subway-train-13482
+Bank scene - Money pack: https://assetstore.unity.com/packages/3d/props/money-pack-84433
+Main scene - Housing: https://assetstore.unity.com/packages/3d/environments/urban/brooklyn-home-112900
+
+
