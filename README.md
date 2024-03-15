@@ -1,4 +1,4 @@
-# Sneak_and_Peak
+# Sneak_and_Peek
 
 ![Main](/IMAGE/main.png)
 
